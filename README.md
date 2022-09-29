@@ -22,7 +22,9 @@ You and your opponent will alternate turns, calling out one shot per turn to try
   •	Hit: Your opponent tells you which ship you have hit (cruiser, submarine, battleship, etc..). Record your hit by placing a red peg on your target grid. Your opponent places a red peg in the corresponding hole of the ship on his ocean grid.
   
   •	Miss: Record your miss by placing a white peg in the corresponding target hole on your target grid, so you will remember this location and won't call this shot again.
+  
 Once all the holes in any one ship are filled with red pegs, the ship will sink. The owner of that ship must announce which ship was sunk. If you are the first player to sink your opponent's entire fleet of 5 ships, you win the game.
+
 Algorithms and Databases that we have to include:
 
   •	Arrays and sequential search
