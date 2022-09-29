@@ -1,9 +1,14 @@
 # Battleship
 Each player's fleet contains 5 different ships:
+
   •	Carrier (5 holes)
+  
   •	Battleship (4 holes)
+  
   •	Cruiser (3 holes)
+  
   •	Destroyer (2 holes)
+  
 Rules for placing ships:
   •	Place each ship in any horizontal or vertical position but not diagonally.
   •	Don't place a ship so that any part of it overlaps letters, numbers, the edge of the grid or another ship.
