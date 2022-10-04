@@ -1,4 +1,7 @@
 # Battleship
+
+<img width="915" alt="battleship" src="https://user-images.githubusercontent.com/63413550/193827773-c1556af6-a7e1-4c06-b06c-6518e3fca68a.png">
+
 Each player's fleet contains 5 different ships:
 
   •	Carrier (5 holes)
